@@ -2,7 +2,7 @@
 - 👀 I’m interested in **Front-End** :electron:	
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**. :atom:	
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me, [badge](https://uesly.github.io/cracha-nlw/) :bowtie:	
+- 📫 How to reach me, **_[badge](https://uesly.github.io/cracha-nlw/)_** :bowtie:	
 
 <!---
 uesly/uesly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
