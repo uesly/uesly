@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Wesley Roberto** :octocat:	
 - 👀 I’m interested in **Front-End** :electron:	
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**. :atom:	
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Angular**. :atom:	
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me, **_[badge](https://uesly.github.io/cracha-nlw/)_** :bowtie:	
 
